@@ -12,12 +12,12 @@ Admins of the user management system can:
 - View information about users such as username, display name, phone, email, user roles.
 - Enable or disable user.
 
-## Layout of the Main Page
+## Layout of the Main Page
 
 - **User List Table**: Sortable and filterable table for viewing users.
 - **New User Form**: Form to add new user or edit existing user's details.
 
-## UI Components
+## UI Components
 
 ### 1. User List Section
 
@@ -94,7 +94,7 @@ When creating a new user, the title is **New User**, when editing an existing us
 
 ## Interecations
 
-## Filtering the Table
+### Filtering the Table
 
 The table can be sorted and filtered by **ID**, **User Name**, **Email**, **Enabled** properties.
 
@@ -120,7 +120,7 @@ If the required information is not filled in, the system displays an error on th
 
 It does not save the new user or allow changes to be made to the existing user unless this information is filled in.
 
-## Page at the Beggining
+## Page at the Beggining
 
 - When the page loads the **User List Table** displays **all users**.
 - **Hide Disabled Users Checkbox** should be checked.
