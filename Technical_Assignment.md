@@ -1,6 +1,6 @@
 # User Interface Specification for User Management
 
-This document is about user management screen. It includes **Requirements**, **UI Components**, **Interactions**, **Errors** and **Page at the Beggining** sections. Software developers use this document as a guide during the development of the this user interface.
+This document is about user management screen. It includes **Requirements**, **UI Components**, **Interactions**, **Errors** and **Page at the Beggining** sections. Software developers use this document as a guide during the development of this user interface.
 
 ## Requirements
 
